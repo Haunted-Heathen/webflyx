@@ -1,0 +1,13 @@
+2024-12-06 17:57:34.513 [info] 
+
+
+
+
+2024-12-06 17:57:34.513 [info] Extension host agent started.
+2024-12-06 17:57:34.519 [info] Started initializing default profile extensions in extensions installation folder. file:///home/haunted/.vscode-server/extensions
+2024-12-06 17:57:34.525 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/haunted/.vscode-server/extensions
+2024-12-06 17:57:34.820 [info] [127.0.0.1][b76418cc][ManagementConnection] New connection established.
+2024-12-06 17:57:34.949 [info] [127.0.0.1][d882ce30][ExtensionHostConnection] New connection established.
+2024-12-06 17:57:35.276 [info] [127.0.0.1][d882ce30][ExtensionHostConnection] <2916> Launched Extension Host Process.
+2024-12-06 17:58:57.622 [info] [127.0.0.1][b76418cc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-06 17:58:57.640 [info] [127.0.0.1][d882ce30][ExtensionHostConnection] <2916> Extension Host Process exited with code: 0, signal: null.

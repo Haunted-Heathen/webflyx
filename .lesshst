@@ -1,0 +1,12 @@
+.less-history-file:
+.search
+"-r
+"-v
+"-t
+"-wc
+"wc
+"-wc
+"--wc
+"authors
+"create
+"new

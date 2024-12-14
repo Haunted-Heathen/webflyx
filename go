@@ -1,0 +1,1 @@
+/home/haunted/.local/opt/go-bin-v1.23.4
